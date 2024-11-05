@@ -1,7 +1,7 @@
 # ML-Pipeline-NYC-Taxi-TimeSeries-Analysis
 
 # Advanced EDA and AutoML Analysis
-**Project Overview : **This repository contains comprehensive data analysis projects focusing on:
+**Project Overview : ** This repository contains comprehensive data analysis projects focusing on:
 
 **NYC Taxi Dataset Analysis:** Exploratory analysis, preprocessing, and fare prediction
 
