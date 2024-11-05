@@ -21,9 +21,13 @@ This repository contains comprehensive data analysis projects focusing on:
 **Python Libraries:**
 
 Data Processing: Pandas, NumPy
+
 Visualization: Matplotlib, Seaborn
+
 Machine Learning: Scikit-learn, PyCaret
+
 AutoML: Auto-ViML
+
 Time Series: StatsModels, Prophet
 
 # Key Analysis Components 📊
